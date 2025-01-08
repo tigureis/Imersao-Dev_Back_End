@@ -1,6 +1,0 @@
-AIzaSyB_AkmS2ZmF5kwfVIFb92LfT-H0mXxFylw
-
-usu banco de dados: tigureis
-senha: ntyazbpq
-
-mongodb+srv://tigureis:ntyazbpq@cluster0.vhsk3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
